@@ -1,6 +1,6 @@
 {
-    "name": "Muhammad Hamza",
-    "email": "hamza@mhmz.dev",
+    "name": "Pushparaj Manickam",
+    "email": "pushparaj27091998@gmail.com",
     "subtitles": [
         "Flutter Developer",
         "Technical Writer",
@@ -11,27 +11,27 @@
     "socialLinks": [
         {
             "platform": "facebook",
-            "url": "https://facebook.com/mhmzdev"
+            "url": "https://facebook.com/pushparaj2709"
         },
         {
             "platform": "instagram",
-            "url": "https://instagram.com/mhmzdev"
+            "url": "https://instagram.com/mr__pushparaj"
         },
         {
             "platform": "twitter",
-            "url": "https://twitter.com/mhmzdev"
+            "url": "https://twitter.com/pushparaj2709"
         },
         {
             "platform": "linkedin",
-            "url": "https://linkedin.com/in/mhmzdev"
+            "url": "https://linkedin.com/in/pushparaj-manickam"
         },
         {
             "platform": "github",
-            "url": "https://github.com/mhmzdev"
+            "url": "https://github.com/PushparajManickam"
         },
         {
             "platform": "medium",
-            "url": "https://mhamzadev.medium.com/"
+            "url": "https://medium.com/@coderpush2709"
         }
     ],
     "aboutMeHeadline": "I'm Muhammad Hamza, a Flutter developer, Technical Writer and UI/UX Designer.",

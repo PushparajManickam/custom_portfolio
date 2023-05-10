@@ -33,10 +33,10 @@ const RESOURCES = {
 "assets/assets/work/dsc.png": "bd954ceeeb42b91899ebe1c3b0d79850",
 "assets/assets/work/flutterIsl.png": "aaaeddae163a2e71636d9d494e16f2db",
 "assets/assets/work/st.png": "0957bd1682c5a518247a1844656c0f7e",
-"assets/data.json": "bc5a97f34d0314fabd35be6b30ae2dc4",
+"assets/data.json": "b484f57a878f38473c1d59aa9948e100",
 "assets/FontManifest.json": "eb13a0d169d41e78994c5d6eb9075409",
 "assets/fonts/agustina/agustina.otf": "7b9833076716a8d14eec0cf885a3153c",
-"assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
+"assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/fonts/montserrat/montserrat.ttf": "ee6539921d713482b8ccd4d0d23961bb",
 "assets/fonts/poppins/Poppins-Bold.ttf": "a3e0b5f427803a187c1b62c5919196aa",
 "assets/fonts/poppins/Poppins-Italic.ttf": "5e956c44060a7b3c0e39819ae390ab15",
@@ -44,7 +44,7 @@ const RESOURCES = {
 "assets/fonts/poppins/Poppins-Medium.ttf": "f61a4eb27371b7453bf5b12ab3648b9e",
 "assets/fonts/poppins/Poppins-Regular.ttf": "8b6af8e5e8324edfd77af8b3b35d7f9c",
 "assets/fonts/poppins/Poppins-SemiBold.ttf": "4cdacb8f89d588d69e8570edcbe49507",
-"assets/NOTICES": "b105b105b4e004d5a84d43afc5114452",
+"assets/NOTICES": "d925fd233aa8f3231308432f48360f0c",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_AMS-Regular.ttf": "657a5353a553777e270827bd1630e467",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Caligraphic-Bold.ttf": "a9c8e437146ef63fcd6fae7cf65ca859",
@@ -66,21 +66,21 @@ const RESOURCES = {
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Size3-Regular.ttf": "e87212c26bb86c21eb028aba2ac53ec3",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Size4-Regular.ttf": "85554307b465da7eb785fd3ce52ad282",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Typewriter-Regular.ttf": "87f56927f1ba726ce0591955c8b3b42d",
-"assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "d1722d5cf2c7855862f68edb85e31f88",
-"assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "613e4cc1af0eb5148b8ce409ad35446d",
-"assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "dd3c4233029270506ecc994d67785a37",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "b00363533ebe0bfdb95f3694d7647f6d",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "0a94bab8e306520dc6ae14c2573972ad",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "9cda082bd7cc5642096b56fa8db15b45",
 "assets/packages/wakelock_web/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
-"canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
-"canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
-"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
-"canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
+"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
+"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
+"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
+"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "favicon.png": "61b493df9635f221d909421e8769acb0",
-"flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
+"flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
 "icons/Icon-192.png": "002516a4b23f153b7ac2928347c377b1",
 "icons/Icon-512.png": "84780d2dfe97536ad1b68213079cc78b",
-"index.html": "bd46df0671c3f0be1c8bb96133c6cadc",
-"/": "bd46df0671c3f0be1c8bb96133c6cadc",
-"main.dart.js": "fdd45ab6d548b3fc84123d9db6ab1253",
+"index.html": "143edbc5dad0eb8688e33ee517d073dd",
+"/": "143edbc5dad0eb8688e33ee517d073dd",
+"main.dart.js": "0e7c40ca7efcec14738e01e28573a94a",
 "manifest.json": "ff5bf85cd22e34b045eabcc86a7aacf9",
 "version.json": "a29e8b22a08aa0274b027931eec216c4"
 };
@@ -90,6 +90,7 @@ const RESOURCES = {
 const CORE = [
   "main.dart.js",
 "index.html",
+"assets/NOTICES",
 "assets/AssetManifest.json",
 "assets/FontManifest.json"];
 // During install, the TEMP cache is populated with the application shell files.
@@ -188,11 +189,9 @@ self.addEventListener("fetch", (event) => {
     .then((cache) =>  {
       return cache.match(event.request).then((response) => {
         // Either respond with the cached resource, or perform a fetch and
-        // lazily populate the cache only if the resource was successfully fetched.
+        // lazily populate the cache.
         return response || fetch(event.request).then((response) => {
-          if (response && Boolean(response.ok)) {
-            cache.put(event.request, response.clone());
-          }
+          cache.put(event.request, response.clone());
           return response;
         });
       })
